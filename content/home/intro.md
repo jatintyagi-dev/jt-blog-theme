@@ -1,6 +1,6 @@
 ---
 # Use the Intro widget of the Blog template
-widget: about.avatar
+# widget: about.avatar
 
 # This file represents a page section.
 headless: true
@@ -18,6 +18,6 @@ author: admin
 #  css_class: fullscreen
 ---
 
-🐈 Hey! I'm **Alice**, a data scientist at Google.
+🐈 Hey! I'm **Jatin Tyagi**, a data scientist at BDB.ai.
 
-Check out my [CV](/about/) and blog posts below 🌈
+Check out my blog posts below 
